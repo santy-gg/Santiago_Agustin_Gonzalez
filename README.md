@@ -12,7 +12,7 @@ Enfocado en resolver problemas de negocio mediante código limpio e inteligencia
 Stack Tecnológico:
 Usá iconos pequeños (de páginas como Shields.io o Devicon) separados por categorías:
 
-Backend: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+Backend:<i class="devicon-python-plain-wordmark colored"></i>
 , Java, Flask.
 
 Bases de Datos: PostgreSQL, MongoDB, SQL.

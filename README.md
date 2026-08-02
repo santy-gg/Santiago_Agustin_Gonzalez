@@ -11,7 +11,8 @@ Enfocado en resolver problemas de negocio mediante código limpio e inteligencia
 
 ### Stack Tecnológico:
 
-## Backend: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+### Backend: 
+<img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

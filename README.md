@@ -19,11 +19,15 @@ Backend: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/d
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />.
 
-Bases de Datos: PostgreSQL, MongoDB, SQL.
+Bases de Datos: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />.
 
 Datos & BI: Power BI, Machine Learning, Excel.
 
-Herramientas: Git, Docker, Linux, Swagger.
+Herramientas: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />.
 
 Proyectos Destacados (Featured Projects):
 Acá el sistema ERP/CRM (AINABI) tiene que ser el protagonista. En lugar de mostrar pantallas del front, detallá:

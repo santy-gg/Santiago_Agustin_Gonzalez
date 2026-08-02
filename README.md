@@ -22,7 +22,7 @@ Bases de Datos: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/dev
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />.
 
-Datos & BI: <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>, Machine Learning, Excel.
+Datos & BI: <img width=35px height=35px src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>, Machine Learning, Excel.
 
 Herramientas: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />

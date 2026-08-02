@@ -22,7 +22,7 @@ Bases de Datos: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/dev
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />.
 
-Datos & BI: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqElEQVR4nO3PsQ2DMBRFUcsZJCkZLhmCzIIHIcgFHiEpYAB7AoqfJrRIXwbZIvdKr3/HGCI6vNhZn9xFNIudHUwtac+n30wtASgdgNIBKB2Ao5Ox8RIa0WzpbxUBlOfXJQA7BcAByAuAA3BygEytl/kpqn3uFQFm5fl1AHYKQACQF4AAIC8AAUBeAAKAvAAEAP8OmNpBff792Dy/9NfN89HZ124AohP3BSYf9LbLrpGaAAAAAElFTkSuQmCC" alt="power-bi-2021">, Machine Learning, Excel.
+Datos & BI: <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>, Machine Learning, Excel.
 
 Herramientas: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />

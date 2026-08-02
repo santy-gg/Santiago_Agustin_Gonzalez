@@ -13,7 +13,11 @@ Stack Tecnológico:
 Usá iconos pequeños (de páginas como Shields.io o Devicon) separados por categorías:
 
 Backend: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-, Java, Flask.
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+, <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />.
 
 Bases de Datos: PostgreSQL, MongoDB, SQL.
 

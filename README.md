@@ -22,9 +22,7 @@ Bases de Datos: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/dev
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />.
 
-Datos & BI: <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 48 48">
-<path fill="#eda503" d="M38,44H26c-0.552,0-1-0.448-1-1V5c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v38	C39,43.552,38.552,44,38,44z"></path><path fill="#ffca28" d="M30,44H18c-0.552,0-1-0.448-1-1V15c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v28	C31,43.552,30.552,44,30,44z"></path><path fill="#ffe082" d="M22,44H10c-0.552,0-1-0.448-1-1V25c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v18	C23,43.552,22.552,44,22,44z"></path>
-</svg>, Machine Learning, Excel.
+Datos & BI: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqElEQVR4nO3PsQ2DMBRFUcsZJCkZLhmCzIIHIcgFHiEpYAB7AoqfJrRIXwbZIvdKr3/HGCI6vNhZn9xFNIudHUwtac+n30wtASgdgNIBKB2Ao5Ox8RIa0WzpbxUBlOfXJQA7BcAByAuAA3BygEytl/kpqn3uFQFm5fl1AHYKQACQF4AAIC8AAUBeAAKAvAAEAP8OmNpBff792Dy/9NfN89HZ124AohP3BSYf9LbLrpGaAAAAAElFTkSuQmCC" alt="power-bi-2021">, Machine Learning, Excel.
 
 Herramientas: <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 , <img height=35px width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
